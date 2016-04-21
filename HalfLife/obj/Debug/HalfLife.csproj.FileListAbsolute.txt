@@ -1,0 +1,15 @@
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\bin\Debug\HalfLife.exe
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\bin\Debug\HalfLife.pdb
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.g.resources
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.exe
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\obj\Debug\HalfLife.pdb
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\bin\Debug\NAudio.dll
+E:\Dropbox\!Coding\All_in_one\HalfLife\HalfLife\bin\Debug\NAudio.xml
